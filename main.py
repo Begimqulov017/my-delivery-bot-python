@@ -9,7 +9,7 @@ from aiohttp import web
 # MA'LUMOTLAR
 API_TOKEN = '8725164864:AAHN1v3wTmn9e5D8Pp40PR0MvvjKW9UsVyI'
 YOUR_URL = 'https://begimqulov017.github.io/my-telegram-app/'
-MANAGER_ID = 8114321110
+MANAGER_ID = 5774691559
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
